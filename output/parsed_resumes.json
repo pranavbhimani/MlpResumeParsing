@@ -1,0 +1,460 @@
+[
+  {
+    "full_name": "Chen Li (Alex)",
+    "email": "Alex_chen2024@gmail.com",
+    "phone": "+852 65478923",
+    "location_city": "Hong Kong",
+    "location_country": "Hong Kong",
+    "current_employer": "Bank of China",
+    "current_title": "Investment Analyst",
+    "years_experience": 3.75,
+    "seniority_level": "Experienced Analyst (2-5 yrs)",
+    "investment_approach": "Systematic/Quantitative",
+    "primary_sector": "Technology",
+    "secondary_sectors": [
+      "Healthcare"
+    ],
+    "summary": "Quantitative investment analyst at Bank of China with MSc in FinTech, specializing in multi-factor models and systematic strategies for Greater China technology equities. Strong programming skills (Python, R, SQL) with experience building automated trading systems and achieving 1.8+ Sharpe ratio on proprietary quant models.",
+    "education": [
+      {
+        "institution": "University of Hong Kong",
+        "degree": "Master of Science",
+        "field_of_study": "Financial Technology",
+        "graduation_year": "2023"
+      },
+      {
+        "institution": "University of Hong Kong",
+        "degree": "Bachelor of Business Administration",
+        "field_of_study": "Finance",
+        "graduation_year": "2021"
+      }
+    ],
+    "technical_skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Machine Learning",
+      "Algorithmic Trading",
+      "Quantitative Risk Management",
+      "VBA",
+      "Bloomberg Terminal",
+      "WIND Database",
+      "GIS mapping tools",
+      "Statistical Analysis",
+      "Backtesting",
+      "Multi-factor Models"
+    ],
+    "languages": [
+      "English",
+      "Mandarin Chinese",
+      "Cantonese"
+    ],
+    "certifications": [],
+    "region": "Asia-Pacific",
+    "source_file": "Chen Li (Alex).docx"
+  },
+  {
+    "full_name": "Marcus Chen-Rodriguez",
+    "email": "rchen@hotmail",
+    "phone": "(745) 156-1879",
+    "location_city": "New York",
+    "location_country": "United States",
+    "current_employer": "Coatue Management",
+    "current_title": "Healthcare Analyst, Investment Team",
+    "years_experience": 11.5,
+    "seniority_level": "Associate+ (5+ yrs)",
+    "investment_approach": "Fundamental",
+    "primary_sector": "Healthcare",
+    "secondary_sectors": [
+      "Credit"
+    ],
+    "summary": "Healthcare investment professional with 11+ years experience across public/private markets at Coatue Management, Goldman Sachs, and Credit Suisse. Currently manages long/short and growth/venture healthcare portfolio at $40B platform with specialization in Digital Health and AI-enabled diagnostics, serving as Board Observer at two portfolio companies.",
+    "education": [
+      {
+        "institution": "Harvard University",
+        "degree": "Bachelor of Arts",
+        "field_of_study": "Economics, Secondary in Molecular Biology",
+        "graduation_year": "2013"
+      }
+    ],
+    "technical_skills": [
+      "Financial modeling & analysis",
+      "Healthcare industry domain expertise",
+      "Public equities",
+      "Private transactions"
+    ],
+    "certifications": [],
+    "languages": [],
+    "region": "US",
+    "source_file": "Marcus Chen-Rodriguez Resume.docx"
+  },
+  {
+    "full_name": "Marina Silva Costa",
+    "email": "marina.costa.finance@gmail.com",
+    "phone": "+44 (785) 429-1673",
+    "location_city": "London",
+    "location_country": "United Kingdom",
+    "current_employer": "Vanguard Group",
+    "current_title": "Equity Research Analyst",
+    "years_experience": 7,
+    "seniority_level": "Associate+ (5+ yrs)",
+    "investment_approach": "Fundamental",
+    "primary_sector": "Healthcare",
+    "secondary_sectors": [
+      "Consumer"
+    ],
+    "education": [
+      {
+        "institution": "MIT Sloan School of Management",
+        "degree": "MBA",
+        "field_of_study": "Business Administration",
+        "graduation_year": "2021"
+      },
+      {
+        "institution": "Fundacao Getulio Vargas",
+        "degree": "BS",
+        "field_of_study": "Economics",
+        "graduation_year": "2016"
+      }
+    ],
+    "summary": "Equity research analyst at Vanguard covering healthcare, consumer, and telecom in emerging markets (Latam/EMEA) with 3+ years of fundamental research experience; prior Bain consultant focused on consumer and retail strategy.",
+    "languages": [
+      "Portuguese",
+      "English",
+      "Spanish"
+    ],
+    "technical_skills": [
+      "Python",
+      "R",
+      "Excel",
+      "VBA",
+      "Financial Modeling"
+    ],
+    "certifications": [
+      "GMAT 740"
+    ],
+    "region": "Europe",
+    "source_file": "MARINA SILVA COSTA.docx"
+  },
+  {
+    "full_name": "Michael Rodriguez",
+    "email": "mrodriguez84@gmail.com",
+    "phone": "317.441.1999",
+    "location_city": "Boston",
+    "location_country": "United States",
+    "current_employer": "Fidelity Asset Management",
+    "current_title": "Analyst, Consumer Internet & Software",
+    "years_experience": 6.5,
+    "seniority_level": "Associate+ (5+ yrs)",
+    "investment_approach": "Fundamental",
+    "primary_sector": "Technology",
+    "secondary_sectors": [
+      "Consumer"
+    ],
+    "summary": "CFA charterholder with 6+ years of experience covering TMT/consumer internet equities. Currently an analyst at Fidelity Asset Management contributing to a $1-2B AUM mutual fund, previously equity research associate at William Blair covering 20+ TMT names.",
+    "education": [
+      {
+        "institution": "University of Michigan, Ross School of Business",
+        "degree": "Bachelor of Science in Business",
+        "field_of_study": "Finance",
+        "graduation_year": "2017"
+      }
+    ],
+    "certifications": [
+      "CFA",
+      "Series 7",
+      "Series 63",
+      "Series 87"
+    ],
+    "technical_skills": [
+      "Bloomberg Terminal",
+      "Excel",
+      "Advanced Financial Modeling",
+      "Statistical Analysis",
+      "Hypothesis Testing",
+      "FactSet",
+      "S&P Capital IQ",
+      "SQL"
+    ],
+    "languages": [],
+    "region": "US",
+    "source_file": "Michael Rodriguez, CFA.docx"
+  },
+  {
+    "full_name": "Omar El-Hassan",
+    "email": "o.elhassan15@gmail.com",
+    "phone": "+ 33678924531",
+    "location_city": "Paris",
+    "location_country": "France",
+    "current_title": "Quantitative Developer",
+    "current_employer": "BNP Paribas CIB",
+    "years_experience": 2.5,
+    "seniority_level": "Experienced Analyst (2-5 yrs)",
+    "investment_approach": "Systematic/Quantitative",
+    "primary_sector": "Financial Services",
+    "secondary_sectors": [
+      "Credit"
+    ],
+    "summary": "Quantitative developer at BNP Paribas CIB focused on fixed income derivatives pricing library development in C++, with prior experience developing momentum-based trading strategies at Société Générale and strong quantitative finance background.",
+    "education": [
+      {
+        "institution": "INSA Lyon",
+        "degree": "Diplôme d'Ingénieur",
+        "field_of_study": "Financial Engineering",
+        "graduation_year": "2022"
+      },
+      {
+        "institution": "Universite Lyon",
+        "degree": "Master's degree",
+        "field_of_study": "Quantitative Finance",
+        "graduation_year": "2022"
+      },
+      {
+        "institution": "École Royale Navale",
+        "degree": "Preparatory Classes",
+        "field_of_study": "Mathematics and Physics",
+        "graduation_year": "2019"
+      }
+    ],
+    "languages": [
+      "English",
+      "Arabic"
+    ],
+    "technical_skills": [
+      "C++",
+      "C#",
+      ".NET",
+      "Python",
+      "Java",
+      "R",
+      "SQL",
+      "MongoDB",
+      "Machine Learning",
+      "Excel",
+      "Stochastic calculus",
+      "Monte Carlo methods",
+      "Statistical analysis"
+    ],
+    "region": "Europe",
+    "source_file": "Omar El-Hassan 202405.pdf"
+  },
+  {
+    "full_name": "Priya Nakamura",
+    "email": "<UNKNOWN>",
+    "phone": "<UNKNOWN>",
+    "location_city": "<UNKNOWN>",
+    "location_country": "India",
+    "current_employer": "ICICI Securities",
+    "current_title": "Lead Healthcare Analyst",
+    "years_experience": 11,
+    "seniority_level": "Associate+ (5+ yrs)",
+    "investment_approach": "Fundamental",
+    "primary_sector": "Healthcare",
+    "secondary_sectors": [],
+    "summary": "Lead Healthcare Analyst at ICICI Securities with 11 years of equity research experience covering pharmaceutical, hospital, diagnostics, and medical device companies across Indian, US, and European markets. Currently covers 32 healthcare companies and has actively managed primary fund raises for multiple healthcare firms.",
+    "education": [
+      {
+        "institution": "Mumbai Institute of Management Studies (MIMS)",
+        "degree": "MBA",
+        "field_of_study": "Finance",
+        "graduation_year": "2013"
+      },
+      {
+        "institution": "University of Pune",
+        "degree": "MCOM",
+        "field_of_study": "<UNKNOWN>",
+        "graduation_year": "2013"
+      },
+      {
+        "institution": "Thakur College of Commerce",
+        "degree": "B.M.S",
+        "field_of_study": "<UNKNOWN>",
+        "graduation_year": "2007"
+      }
+    ],
+    "technical_skills": [
+      "Financial Modeling",
+      "Equity Research",
+      "Valuation Analysis",
+      "Sector Analysis",
+      "IPO Analysis"
+    ],
+    "certifications": [],
+    "languages": [],
+    "region": "Asia-Pacific",
+    "source_file": "Priya Nakamura_sellside_healthcare_RLTM.docx"
+  },
+  {
+    "full_name": "Ryan Patel",
+    "email": "ryan.patel0403@gmail.com",
+    "phone": "+1 (516) 523-3113",
+    "location_city": "Brooklyn",
+    "location_country": "United States",
+    "current_employer": "Meridian Capital Partners",
+    "current_title": "Investment Professional, Generalist – Soft Catalyst & Fundamental Long/Short",
+    "years_experience": 7.5,
+    "seniority_level": "Associate+ (5+ yrs)",
+    "investment_approach": "Fundamental",
+    "primary_sector": "Consumer",
+    "secondary_sectors": [
+      "Technology",
+      "Healthcare"
+    ],
+    "summary": "Investment professional with 7+ years experience spanning fundamental long/short equity (currently managing generalist portfolio at Meridian Capital Partners), 1 year as Consumer & TMT analyst at Millennium Management, and prior experience in private equity at Apollo and healthcare investment banking at J.P. Morgan.",
+    "education": [
+      {
+        "institution": "Columbia Business School, Columbia University",
+        "degree": "Bachelor of Science in Business",
+        "field_of_study": "Finance and International Business (Minor in Statistics)",
+        "graduation_year": "2017"
+      }
+    ],
+    "technical_skills": [
+      "Financial Modeling",
+      "DCF Analysis",
+      "Comparable Companies Analysis",
+      "LBO Analysis",
+      "Precedent Transactions",
+      "Alternative Data Analysis",
+      "Factor Attribution Analysis",
+      "Risk Management"
+    ],
+    "languages": [
+      "English"
+    ],
+    "certifications": [],
+    "region": "US",
+    "source_file": "RYAN PATEL - Resume.pdf"
+  },
+  {
+    "full_name": "Vikram Shah",
+    "email": "Vshah@gmail.com",
+    "phone": "267-328-0909",
+    "location_city": "New York",
+    "location_country": "United States",
+    "current_employer": "Cinctive Capital Management",
+    "current_title": "Investment Analyst",
+    "years_experience": 10.3,
+    "seniority_level": "Associate+ (5+ yrs)",
+    "investment_approach": "Fundamental",
+    "primary_sector": "Technology",
+    "secondary_sectors": [
+      "Consumer"
+    ],
+    "summary": "CFA charterholder with 3+ years running long/short equity coverage of ~75 Technology/Media stocks at Cinctive Capital, following sell-side experience at Goldman Sachs covering Internet & Interactive Entertainment. Strong fundamental research background with expertise in cloud computing, digital advertising, and TMT sectors.",
+    "education": [
+      {
+        "institution": "Northwestern University - Kellogg School of Management",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Business Administration",
+        "graduation_year": "2014"
+      }
+    ],
+    "certifications": [
+      "CFA Charterholder"
+    ],
+    "technical_skills": [
+      "Bloomberg",
+      "FactSet",
+      "Microsoft Office",
+      "Financial Modeling"
+    ],
+    "languages": [
+      "English",
+      "Mandarin",
+      "Cantonese"
+    ],
+    "region": "US",
+    "source_file": "Vikram Shah.docx"
+  },
+  {
+    "full_name": "Viktor Sharat",
+    "location_country": "India",
+    "location_city": "Mumbai",
+    "current_employer": "Axis Mutual Fund",
+    "current_title": "Research Analyst",
+    "years_experience": 10.6,
+    "seniority_level": "Associate+ (5+ yrs)",
+    "investment_approach": "Fundamental",
+    "primary_sector": "Healthcare",
+    "secondary_sectors": [
+      "Energy",
+      "Consumer",
+      "Other"
+    ],
+    "summary": "Experienced equity research analyst with 10+ years covering healthcare, energy, and other sectors across buy-side (Axis Mutual Fund) and sell-side (ICICI Securities, Meridian Capital) roles in India. CFA charterholder with strong fundamental analysis skills and unique biotechnology research background.",
+    "education": [
+      {
+        "institution": "Mumbai Institute of Management Studies and Research",
+        "degree": "PGDM",
+        "field_of_study": "Management",
+        "graduation_year": "2015"
+      },
+      {
+        "institution": "Padmashree Dr.D.Y.Patil Institute of Biotechnology and Bioinformatics",
+        "degree": "M.Tech (Integrated)",
+        "field_of_study": "Biotechnology and Bioinformatics",
+        "graduation_year": "2010"
+      }
+    ],
+    "certifications": [
+      "CFA Level 3 (CFA Institute, USA)"
+    ],
+    "technical_skills": [
+      "Equity Analysis",
+      "Fundamental Analysis",
+      "Financial Modeling",
+      "Sector Research",
+      "AI-based Drug Target Identification",
+      "Machine Learning Applications"
+    ],
+    "region": "Asia-Pacific",
+    "source_file": "Viktor Sharat.docx"
+  },
+  {
+    "full_name": "Dr. Zara Al-Rashid",
+    "location_city": "Mumbai",
+    "location_country": "India",
+    "current_employer": "Meridian Research Partners",
+    "current_title": "Lead Analyst – Pharmaceuticals and Healthcare",
+    "years_experience": 11.5,
+    "seniority_level": "Associate+ (5+ yrs)",
+    "investment_approach": "Fundamental",
+    "primary_sector": "Healthcare",
+    "secondary_sectors": [],
+    "summary": "Lead healthcare equity analyst with 11+ years of experience covering Indian pharmaceuticals and healthcare sectors. Published equity research with price targets across 28 stocks, voted by top domestic institutional investors, and formerly supported II-ranked US Healthcare Services team at Leerink Partners.",
+    "education": [
+      {
+        "degree": "M.B.B.S",
+        "field_of_study": "Medicine",
+        "institution": "K.J. Somaiya Medical College, Mumbai",
+        "graduation_year": "2010"
+      },
+      {
+        "degree": "PGDM",
+        "field_of_study": "Finance",
+        "institution": "Indian School of Business Management (ISBM), Pune",
+        "graduation_year": "2012"
+      }
+    ],
+    "technical_skills": [
+      "Bloomberg",
+      "Factset",
+      "Reuters",
+      "FDA",
+      "MedPAC",
+      "CMS",
+      "WHO",
+      "German DRG",
+      "USRDS",
+      "PubMed",
+      "MS Office",
+      "Equity Research",
+      "Financial Modeling"
+    ],
+    "certifications": [],
+    "languages": [],
+    "region": "Asia-Pacific",
+    "source_file": "Zara Al-Rashid.docx"
+  }
+]
