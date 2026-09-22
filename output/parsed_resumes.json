@@ -7,14 +7,14 @@
     "location_country": "Hong Kong",
     "current_employer": "Bank of China",
     "current_title": "Investment Analyst",
-    "years_experience": 3.75,
+    "years_experience": 3.5,
     "seniority_level": "Experienced Analyst (2-5 yrs)",
-    "investment_approach": "Systematic/Quantitative",
+    "investment_approach": "Both/Hybrid",
     "primary_sector": "Technology",
     "secondary_sectors": [
       "Healthcare"
     ],
-    "summary": "Quantitative investment analyst at Bank of China with MSc in FinTech, specializing in multi-factor models and systematic strategies for Greater China technology equities. Strong programming skills (Python, R, SQL) with experience building automated trading systems and achieving 1.8+ Sharpe ratio on proprietary quant models.",
+    "summary": "Investment Analyst at Bank of China with MS in FinTech and 3+ years experience combining quantitative modeling and fundamental research. Built multi-factor quant model for Greater China tech equities achieving 1.8+ Sharpe ratio, with expertise in machine learning, algorithmic trading, and Asian equity analysis.",
     "education": [
       {
         "institution": "University of Hong Kong",
@@ -33,16 +33,14 @@
       "Python",
       "R",
       "SQL",
+      "Excel VBA",
       "Machine Learning",
       "Algorithmic Trading",
-      "Quantitative Risk Management",
-      "VBA",
+      "Quantitative Modeling",
       "Bloomberg Terminal",
       "WIND Database",
-      "GIS mapping tools",
-      "Statistical Analysis",
       "Backtesting",
-      "Multi-factor Models"
+      "Statistical Analysis"
     ],
     "languages": [
       "English",
@@ -68,7 +66,7 @@
     "secondary_sectors": [
       "Credit"
     ],
-    "summary": "Healthcare investment professional with 11+ years experience across public/private markets at Coatue Management, Goldman Sachs, and Credit Suisse. Currently manages long/short and growth/venture healthcare portfolio at $40B platform with specialization in Digital Health and AI-enabled diagnostics, serving as Board Observer at two portfolio companies.",
+    "summary": "Healthcare investment professional with 11+ years of experience spanning public/private investing, growth equity, and investment banking. Currently at Coatue Management managing healthcare portfolios with focus on Digital Health and AI-enabled diagnostics, serving as Board Observer at two portfolio companies with strong track record of outperformance.",
     "education": [
       {
         "institution": "Harvard University",
@@ -78,10 +76,11 @@
       }
     ],
     "technical_skills": [
-      "Financial modeling & analysis",
-      "Healthcare industry domain expertise",
-      "Public equities",
-      "Private transactions"
+      "Financial modeling",
+      "Valuation analysis",
+      "Due diligence",
+      "Portfolio management",
+      "Board presentations"
     ],
     "certifications": [],
     "languages": [],
@@ -103,6 +102,7 @@
     "secondary_sectors": [
       "Consumer"
     ],
+    "summary": "Equity research analyst at Vanguard with 3+ years covering healthcare, consumer discretionary, and telecom in emerging LATAM/EMEA markets through fundamental analysis. Previously spent 3 years at Bain & Company as a business analyst focused on consumer and retail strategy.",
     "education": [
       {
         "institution": "MIT Sloan School of Management",
@@ -117,7 +117,6 @@
         "graduation_year": "2016"
       }
     ],
-    "summary": "Equity research analyst at Vanguard covering healthcare, consumer, and telecom in emerging markets (Latam/EMEA) with 3+ years of fundamental research experience; prior Bain consultant focused on consumer and retail strategy.",
     "languages": [
       "Portuguese",
       "English",
@@ -130,9 +129,7 @@
       "VBA",
       "Financial Modeling"
     ],
-    "certifications": [
-      "GMAT 740"
-    ],
+    "certifications": [],
     "region": "Europe",
     "source_file": "MARINA SILVA COSTA.docx"
   },
@@ -151,7 +148,7 @@
     "secondary_sectors": [
       "Consumer"
     ],
-    "summary": "CFA charterholder with 6+ years of experience covering TMT/consumer internet equities. Currently an analyst at Fidelity Asset Management contributing to a $1-2B AUM mutual fund, previously equity research associate at William Blair covering 20+ TMT names.",
+    "summary": "Equity analyst at Fidelity Asset Management covering Consumer Internet & Software with ~6.5 years of buy-side and sell-side experience across TMT. CFA charterholder with prior equity research and fixed income experience at William Blair.",
     "education": [
       {
         "institution": "University of Michigan, Ross School of Business",
@@ -195,7 +192,7 @@
     "secondary_sectors": [
       "Credit"
     ],
-    "summary": "Quantitative developer at BNP Paribas CIB focused on fixed income derivatives pricing library development in C++, with prior experience developing momentum-based trading strategies at Société Générale and strong quantitative finance background.",
+    "summary": "Quantitative developer at BNP Paribas CIB focused on fixed income derivatives pricing with C++ expertise. Background includes momentum-based trading strategy development at Société Générale and strong academic foundation in quantitative finance and financial engineering.",
     "education": [
       {
         "institution": "INSA Lyon",
@@ -216,10 +213,6 @@
         "graduation_year": "2019"
       }
     ],
-    "languages": [
-      "English",
-      "Arabic"
-    ],
     "technical_skills": [
       "C++",
       "C#",
@@ -233,54 +226,54 @@
       "Excel",
       "Stochastic calculus",
       "Monte Carlo methods",
-      "Statistical analysis"
+      "Probability theory",
+      "Statistics"
+    ],
+    "languages": [
+      "English",
+      "Arabic"
     ],
     "region": "Europe",
     "source_file": "Omar El-Hassan 202405.pdf"
   },
   {
     "full_name": "Priya Nakamura",
-    "email": "<UNKNOWN>",
-    "phone": "<UNKNOWN>",
-    "location_city": "<UNKNOWN>",
     "location_country": "India",
-    "current_employer": "ICICI Securities",
-    "current_title": "Lead Healthcare Analyst",
     "years_experience": 11,
     "seniority_level": "Associate+ (5+ yrs)",
+    "current_employer": "ICICI Securities",
+    "current_title": "Lead Healthcare Analyst",
     "investment_approach": "Fundamental",
     "primary_sector": "Healthcare",
     "secondary_sectors": [],
-    "summary": "Lead Healthcare Analyst at ICICI Securities with 11 years of equity research experience covering pharmaceutical, hospital, diagnostics, and medical device companies across Indian, US, and European markets. Currently covers 32 healthcare companies and has actively managed primary fund raises for multiple healthcare firms.",
+    "summary": "Senior healthcare equity research analyst with 11 years of experience covering pharmaceuticals, hospitals, diagnostics and medical devices across Indian, US and European markets. Currently Lead Healthcare Analyst at ICICI Securities covering 32+ companies, with prior roles at J.P. Morgan Chase, Jardine Lloyd Thompson, Centrum Broking, and Morgan Stanley.",
     "education": [
       {
-        "institution": "Mumbai Institute of Management Studies (MIMS)",
         "degree": "MBA",
         "field_of_study": "Finance",
+        "institution": "Mumbai Institute of Management Studies (MIMS)",
         "graduation_year": "2013"
       },
       {
-        "institution": "University of Pune",
         "degree": "MCOM",
-        "field_of_study": "<UNKNOWN>",
+        "field_of_study": "Commerce",
+        "institution": "University of Pune",
         "graduation_year": "2013"
       },
       {
-        "institution": "Thakur College of Commerce",
         "degree": "B.M.S",
-        "field_of_study": "<UNKNOWN>",
+        "field_of_study": "Management Studies",
+        "institution": "Thakur College of Commerce",
         "graduation_year": "2007"
       }
     ],
     "technical_skills": [
       "Financial Modeling",
-      "Equity Research",
-      "Valuation Analysis",
+      "Equity Valuation",
       "Sector Analysis",
-      "IPO Analysis"
+      "Earnings Analysis",
+      "Regulatory Analysis"
     ],
-    "certifications": [],
-    "languages": [],
     "region": "Asia-Pacific",
     "source_file": "Priya Nakamura_sellside_healthcare_RLTM.docx"
   },
@@ -300,12 +293,12 @@
       "Technology",
       "Healthcare"
     ],
-    "summary": "Investment professional with 7+ years experience spanning fundamental long/short equity (currently managing generalist portfolio at Meridian Capital Partners), 1 year as Consumer & TMT analyst at Millennium Management, and prior experience in private equity at Apollo and healthcare investment banking at J.P. Morgan.",
+    "summary": "Investment professional with 7+ years experience across fundamental long/short equity, private equity, and investment banking. Currently managing a fundamental L/S equity portfolio at Meridian Capital Partners with prior roles at Millennium Management (Consumer & TMT analyst) and Apollo Global Management.",
     "education": [
       {
         "institution": "Columbia Business School, Columbia University",
         "degree": "Bachelor of Science in Business",
-        "field_of_study": "Finance and International Business (Minor in Statistics)",
+        "field_of_study": "Finance and International Business, Minor in Statistics",
         "graduation_year": "2017"
       }
     ],
@@ -316,13 +309,11 @@
       "LBO Analysis",
       "Precedent Transactions",
       "Alternative Data Analysis",
-      "Factor Attribution Analysis",
-      "Risk Management"
-    ],
-    "languages": [
-      "English"
+      "Risk Management",
+      "Factor Attribution"
     ],
     "certifications": [],
+    "languages": [],
     "region": "US",
     "source_file": "RYAN PATEL - Resume.pdf"
   },
@@ -341,28 +332,31 @@
     "secondary_sectors": [
       "Consumer"
     ],
-    "summary": "CFA charterholder with 3+ years running long/short equity coverage of ~75 Technology/Media stocks at Cinctive Capital, following sell-side experience at Goldman Sachs covering Internet & Interactive Entertainment. Strong fundamental research background with expertise in cloud computing, digital advertising, and TMT sectors.",
-    "education": [
-      {
-        "institution": "Northwestern University - Kellogg School of Management",
-        "degree": "Bachelor of Science",
-        "field_of_study": "Business Administration",
-        "graduation_year": "2014"
-      }
-    ],
+    "summary": "CFA charterholder with 10+ years in equity research and investment management, currently covering 75 Technology/Media stocks at Cinctive Capital with expertise in cloud computing and digital advertising. Previously worked at Goldman Sachs equity research covering U.S. Internet & Interactive Entertainment for an Institutional Investor ranked team.",
     "certifications": [
       "CFA Charterholder"
-    ],
-    "technical_skills": [
-      "Bloomberg",
-      "FactSet",
-      "Microsoft Office",
-      "Financial Modeling"
     ],
     "languages": [
       "English",
       "Mandarin",
       "Cantonese"
+    ],
+    "technical_skills": [
+      "Bloomberg",
+      "FactSet",
+      "Microsoft Office",
+      "Financial Modeling",
+      "DCF Valuation",
+      "Comparable Company Analysis",
+      "Sum-of-the-Parts Valuation"
+    ],
+    "education": [
+      {
+        "institution": "Northwestern University - Kellogg School of Management",
+        "degree": "Bachelor of Science in Business Administration",
+        "field_of_study": "Business Administration",
+        "graduation_year": "2014"
+      }
     ],
     "region": "US",
     "source_file": "Vikram Shah.docx"
@@ -382,7 +376,7 @@
       "Consumer",
       "Other"
     ],
-    "summary": "Experienced equity research analyst with 10+ years covering healthcare, energy, and other sectors across buy-side (Axis Mutual Fund) and sell-side (ICICI Securities, Meridian Capital) roles in India. CFA charterholder with strong fundamental analysis skills and unique biotechnology research background.",
+    "summary": "Equity research analyst with 10+ years of experience covering healthcare, energy, and consumer sectors across buy-side and sell-side roles. Currently at Axis Mutual Fund covering pharmaceuticals and specialty chemicals; previously spent nearly 9 years at ICICI Securities covering 42 stocks across multiple sectors. CFA Level 3 candidate.",
     "education": [
       {
         "institution": "Mumbai Institute of Management Studies and Research",
@@ -398,15 +392,13 @@
       }
     ],
     "certifications": [
-      "CFA Level 3 (CFA Institute, USA)"
+      "CFA Level 3"
     ],
     "technical_skills": [
-      "Equity Analysis",
-      "Fundamental Analysis",
+      "Equity Research",
       "Financial Modeling",
-      "Sector Research",
-      "AI-based Drug Target Identification",
-      "Machine Learning Applications"
+      "Sector Analysis",
+      "Company Fundamentals Analysis"
     ],
     "region": "Asia-Pacific",
     "source_file": "Viktor Sharat.docx"
@@ -422,19 +414,19 @@
     "investment_approach": "Fundamental",
     "primary_sector": "Healthcare",
     "secondary_sectors": [],
-    "summary": "Lead healthcare equity analyst with 11+ years of experience covering Indian pharmaceuticals and healthcare sectors. Published equity research with price targets across 28 stocks, voted by top domestic institutional investors, and formerly supported II-ranked US Healthcare Services team at Leerink Partners.",
+    "summary": "Lead Healthcare/Pharmaceuticals equity research analyst with 11+ years of experience covering Indian healthcare sector across top-tier firms including Kotak Securities and Prism Financial. Medical doctor (MBBS) with strong institutional client relationships and recognized research quality, currently covering 28 stocks at Meridian Research Partners.",
     "education": [
-      {
-        "degree": "M.B.B.S",
-        "field_of_study": "Medicine",
-        "institution": "K.J. Somaiya Medical College, Mumbai",
-        "graduation_year": "2010"
-      },
       {
         "degree": "PGDM",
         "field_of_study": "Finance",
         "institution": "Indian School of Business Management (ISBM), Pune",
         "graduation_year": "2012"
+      },
+      {
+        "degree": "M.B.B.S",
+        "field_of_study": "Medicine",
+        "institution": "K.J. Somaiya Medical College, Mumbai",
+        "graduation_year": "2010"
       }
     ],
     "technical_skills": [
@@ -453,7 +445,6 @@
       "Financial Modeling"
     ],
     "certifications": [],
-    "languages": [],
     "region": "Asia-Pacific",
     "source_file": "Zara Al-Rashid.docx"
   }

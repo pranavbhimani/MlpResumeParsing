@@ -29,17 +29,13 @@ def lighten(hex_color: str, amount: float) -> str:
     return f"#{r:02x}{g:02x}{b:02x}"
 
 
-# Each single-series chart gets its own lighter tone (blended toward white, not a
-# separate hue picked by eye) instead of the same saturated accent color repeated
-# everywhere. Base hues come from the same categorical palette used for the approach
-# pie below, so the whole page still reads as one coordinated set.
+# Each single-series chart gets its own tone
 REGION_COLOR = lighten("#2a78d6", 0.35)      # blue
 SECTOR_COLOR = lighten("#1baf7a", 0.35)      # aqua
 EXPERIENCE_COLOR = lighten("#eb6834", 0.35)  # orange
 
 # Fixed categorical map for the approach pie chart, so a slice's color always means
-# the same approach regardless of which subset is currently filtered in. Lightened
-# less than the single-series charts above so the four slices stay distinguishable.
+# the same approach regardless of which subset is currently filtered in
 APPROACH_COLORS = {
     approach: lighten(base, 0.2)
     for approach, base in zip(
@@ -47,8 +43,7 @@ APPROACH_COLORS = {
     )
 }
 
-# Friendly labels for every field a user sees, so the UI never leaks a raw
-# snake_case field name (e.g. "full_name" -> "Full Name").
+# Adjusting the snake_case field name to make more user-friendly (e.g. "full_name" -> "Full Name")
 COLUMN_LABELS = {
     "full_name": "Full Name",
     "region": "Region",
